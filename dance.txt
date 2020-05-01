@@ -5,3 +5,5 @@ privet kak dela
 hop hey
 111111
 2222222
+
+add git stash test
